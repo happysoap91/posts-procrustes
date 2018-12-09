@@ -314,8 +314,8 @@ Such functionality is already implemented in the R package [shapes](https://cran
 <div align="left">
   <sub>
     The source files for this post can be found in
-    <a href="https://gitlab.com/vkehayas/notebooks/tree/master/procrustes">
-      https://gitlab.com/vkehayas/notebooks/tree/master/procrustes</a>.
+    <a href="https://gitlab.com/neurathsboat.blog/posts/procrustes">
+      https://gitlab.com/neurathsboat.blog/posts/procrustes</a>.
   </sub>
 </div>
 
