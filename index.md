@@ -9,6 +9,7 @@ summary = "Pair-wise linear transformation based on feature coordinates"
 abstract = "Pair-wise linear transformation based on feature coordinates"
 hasPlotly = true
 authors = ["Vassilis Kehayas"]
+doi = "10.5281/zenodo.2125839"
 
 [image]
   caption = "An image stack acquired from a spiny dendrite inside the brain of a live mouse."
